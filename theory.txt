@@ -1,0 +1,10 @@
+
+
+=============CRUD=============
+C => 
+R => SELCT * FROM students
+
+new mysqli ('host', 'user', 'password', 'database_name')
+
+$result = 10;
+echo 'The result is='.$result.'That's not a good result';
