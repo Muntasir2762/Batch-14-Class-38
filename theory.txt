@@ -1,8 +1,10 @@
 
 
 =============CRUD=============
-C => 
+C => INSERT INTO students (name, roll, class, phone, email, address) VALUES ('x', 4, 'seven', '904689', 'sdg@gmail.com', 'Dhaka')
 R => SELCT * FROM students
+U => 
+D => DELETE FROM students WHERE id = 6;
 
 new mysqli ('host', 'user', 'password', 'database_name')
 
